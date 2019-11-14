@@ -1,3 +1,4 @@
 public interface CreateCar  {
-    public void CreateCar();
+    void CreateCars(Integer minMass,Integer maxMass);
+
 }
